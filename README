@@ -1,0 +1,9 @@
+The aim of this project is to creat different tools to use to scrape relevant data from different Utility websites.
+
+Python packages that are required:
+Pandas
+Selenium
+pyodbc
+
+Software that is required:
+Chrome webdriver
